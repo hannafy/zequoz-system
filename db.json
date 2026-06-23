@@ -1,0 +1,25 @@
+{
+  "clients": [],
+  "ads": [],
+  "team": [],
+  "leads": [],
+  "goals": [],
+  "personal": {
+    "prayers": { "fajr": 0, "duhr": 0, "asr": 0, "maghrib": 0, "isha": 0 },
+    "quranPages": 0,
+    "verses": 0,
+    "charityAmt": 0,
+    "charityActs": 0
+  },
+  "settings": {
+    "theme": "dark",
+    "lang": "en",
+    "adminProfile": {
+      "name": "Admin",
+      "username": "zequoz",
+      "password": "Z4M10@#$",
+      "avatar": ""
+    }
+  },
+  "users": []
+}
